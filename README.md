@@ -1,7 +1,7 @@
 # Biblioteca
  <strong>Exercício de desenvolvimento do curso da Gama Academy</strong>
 
-A atividade pediu para montar um sistema simples de consulta de livros em um banco de dados disponível no arquivo database.js.
+A atividade pediu para montar um sistema simples de consulta de livros (app.js) em um banco de dados (database.js).
 
 A consulta é feita escrevendo o nome da categoria no prompt. Esta categoria deve ser validada em uma string que contém todas as categorias listadas e retornar todos os livros daquela respectiva categoria que estiverem no banco de dados. O usuário ainda pode escolher ver todos os livros disponíveis, listados por ordem ascendente do número de páginas.
 
